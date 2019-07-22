@@ -1,0 +1,11 @@
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\bin\Debug\netcoreapp2.2\thiCSharp.deps.json
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\bin\Debug\netcoreapp2.2\thiCSharp.runtimeconfig.json
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\bin\Debug\netcoreapp2.2\thiCSharp.runtimeconfig.dev.json
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\bin\Debug\netcoreapp2.2\thiCSharp.dll
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\bin\Debug\netcoreapp2.2\thiCSharp.pdb
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\obj\Debug\netcoreapp2.2\thiCSharp.csprojAssemblyReference.cache
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\obj\Debug\netcoreapp2.2\thiCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\obj\Debug\netcoreapp2.2\thiCSharp.AssemblyInfoInputs.cache
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\obj\Debug\netcoreapp2.2\thiCSharp.AssemblyInfo.cs
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\obj\Debug\netcoreapp2.2\thiCSharp.dll
+C:\Users\Believe\RiderProjects\thiCSharp\thiCSharp\obj\Debug\netcoreapp2.2\thiCSharp.pdb
